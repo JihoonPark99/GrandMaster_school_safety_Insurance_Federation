@@ -1,6 +1,19 @@
 # GrandMaster_school_safety_Insurance_Federation
 
 
+# Collaboration
+- [See-eun](https://github.com/singnizzang)
+- [Eun-ah](https://github.com/ttjddmsdk)
+- [Ji-hoon](https://github.com/JihoonPark99)
+
+<div align="center">
+    
+![대회사진2](https://github.com/user-attachments/assets/b280f3db-996a-45ac-b3ae-e8af1c666efe)
+
+</div>
+
+
+> Detail Data Analysis Description : [Link](https://silk-find-509.notion.site/9648237080ba423da26ab27835a91743?pvs=4)
 
 ## Table of Conents
 1. 배경
@@ -52,8 +65,6 @@
 → 지역별 학교 안전교육 인력풀 현황 분석
 
 ### 분석
-
-##### 1. 전처리
 - 결측치 처리
   
 - 칼럼명 동일화
@@ -64,3 +75,16 @@
     - EDA
     - 가설 수립
     - 설문 조사를 통한 가설 검증 및 추가 분석
+4. 가설수립 및 검증
+
+### 결과
+
+<div align="center">
+
+![활용방안1](https://github.com/user-attachments/assets/2519a2f9-9238-4ae5-9f2f-7c39c52e9f2c)
+
+</div>
+
+
+
+
